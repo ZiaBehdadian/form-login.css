@@ -19,15 +19,32 @@ body {
     
 }
 
+.login {
+    background-color: aqua;
+    width: 370px;
+    height: 550px;
+    padding: 60px 30px 30px 30px;
+
+    
+   
+    
+    
+}
+
 .logo {
     background:url("./img/2.jpg");
     width: 100px;
     height: 100px;
-    margin: 0 auto;
     border-radius: 50%;
+    margin: auto;
+    
+
 }
 
-.login {
-    background-color: aqua;
-    
+.title {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-weight: bold;
+
 }
