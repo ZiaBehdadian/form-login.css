@@ -88,10 +88,12 @@ padding: 20px 10px 20px 5px;
     color: #f1bfe6;
     box-shadow: 3px 3px 8px #e8e3e3,
     -3px -3px 8px #f8f3f3;
+    transition: all .3s ease-in;
 
 }
 .login-butoon:hover {
     background-color: #da12d7;
+    font-size: 30px;
 }
 
 .link {
